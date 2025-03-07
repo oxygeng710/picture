@@ -16,7 +16,7 @@
 
 ## 复现结果：
 
-![a39ef5ce318dffc33a913aabd171f21](https://raw.githubusercontent.com/oxygeng710/picture/main/a39ef5ce318dffc33a913aabd171f21.png)
+![1741341796456](https://raw.githubusercontent.com/oxygeng710/picture/main/1741341796456.png)
 
 ​	论文中评估结果的方式仅有成功率一项，这里可能需要运行eval.py才能够得到成功率，运行这个时也是有与之前同样的问题
 
