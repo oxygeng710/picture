@@ -16,7 +16,7 @@
 
 ## 复现结果：
 
-![image-20250307162750221](C:\Users\谢雨庚\AppData\Roaming\Typora\typora-user-images\image-20250307162750221.png)
+![a39ef5ce318dffc33a913aabd171f21](https://raw.githubusercontent.com/oxygeng710/picture/main/a39ef5ce318dffc33a913aabd171f21.png)
 
 ​	论文中评估结果的方式仅有成功率一项，这里可能需要运行eval.py才能够得到成功率，运行这个时也是有与之前同样的问题
 
